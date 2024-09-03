@@ -1,0 +1,11 @@
+python memeiliki dua data yaitu :
+    -data premitif 
+        -integer (int) -> numerikal
+        -string (str) -> character A-Z dan 9-0,spesial char (menggunakan tanda petik "")
+        -float (float) -> bilangan decimal (bilangan berkoma)
+        -boolean (bool) -> true or false, 0/1
+    -data tidak premitif
+TIPS :
+    -gunakan variabel yang mudah di baca
+    -usahakan membuat dokumentasinya
+#operasi (opration) -> tambah (+), kurang (-), kali (*), bagi (/), mudulo (%), pangkat (**)
